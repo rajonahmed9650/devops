@@ -1,6 +1,0 @@
-This is file1
-This is file2
-this is file3 
-this is file4
-this is file5
-this is file6
